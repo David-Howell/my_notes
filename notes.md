@@ -25,4 +25,6 @@ To create a repository:
 	• $ git commit -m 'text to describe the commit'
 
 	• $ git push	# This will push the commit to github
+
+	•
 	
